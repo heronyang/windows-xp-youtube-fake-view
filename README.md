@@ -25,7 +25,7 @@ Youtube is not supporting IE6 since 2010. See [this article](http://mashable.com
 
 ![IE6 in Virtualbox](./screenshots/ie6.png)
 
-![Error message 1](./Screenshots/err1.png)
+![Error message 1](./screenshots/err1.png)
 
-![Error message 2](./Screenshots/err2.png)
+![Error message 2](./screenshots/err2.png)
 
